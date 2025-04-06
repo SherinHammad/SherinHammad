@@ -9,4 +9,5 @@ Proficient in Windows and Linux environments with hands-on experience in network
 
 Here are some of the tools and technologies I work with:
 
-![Languages and Tools](https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,terraform,splunk,Fortigate,github,nginx,python)
+![Languages and Tools](https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,terraform,Fortigate,github,nginx,python)
+![Splunk](https://upload.wikimedia.org/wikipedia/commons/5/5d/Splunk_logo.svg)
