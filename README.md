@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 
 Here are some of the tools and technologies I work with:
 
-![Languages and Tools](https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,terraform,Fortigate,github,nginx,python)
+![Languages and Tools](https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,terraform,github,nginx,python)
 
 Security Tools:
 Splunk, Snort and Fortigate Firewall
